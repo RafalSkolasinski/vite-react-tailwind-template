@@ -14,3 +14,5 @@ I just wanted to see how it would look when using Tailwind.
 3. Run server with `pnpm run dev`
 
 Enjoy!
+
+![alt text](image.png)
